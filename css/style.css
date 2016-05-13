@@ -1,0 +1,37 @@
+body{
+	
+}
+.progress-main{
+	padding:0;
+	margin:0;
+}
+
+.content{
+	margin:20px;
+}
+
+.btn_panel{
+	position:absolute;
+	top:70%;
+}
+
+.pagination{
+	position:absolute;
+	top:80%;
+}
+
+.hidden{
+	display:none;
+}
+
+.fix-down{
+	position:fixed;
+	top:93%;
+	left:1.4%;
+}
+#head{
+	margin-left: 10px;
+}
+.inp-text{
+	width: 450px;
+}
