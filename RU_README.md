@@ -62,7 +62,7 @@ API для тестирования
 <pre>
 &lt;script&gt; 
 // добавляем окно тестирования на сайт, через данную конструкцию, чтобы данные не хэшировались браузером
-document.write('<iframe src="PATH TO TEST/tests/test_demo_ru/test.php#?hash="' + Math.random() + '"></iframe>');
+document.write('&lt;iframe src="PATH TO TEST/tests/test_demo_ru/test.php#?hash="' + Math.random() + '"&gt;&lt;/iframe&gt;');
 
 // Отправляем данные в дочернее окно
 window.onload = function(){
