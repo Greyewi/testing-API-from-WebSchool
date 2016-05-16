@@ -3,6 +3,15 @@ API для тестирования
 
 # <a href="http://webschool.pspu.ru/WebSchool/web/main/contact/demo">DEMO</a>
 
+# Описание
+<p>
+Данная система тестироваиния предназначена для создания своего теста, который можно поместить на сайт. Система тестирования имеет следующие особенности:
+<ol>
+<li></li>
+<li></li><li></li>
+</ol>
+</p>
+
 # Инструкция по созданию теста
 <ol>
 <li> Скачиваем каталог и загружаем к себе на хостинг (Скачать можно c <a href="https://yadi.sk/d/Xdx6ej8yrg7nJ">yandex disk</a> и <a href="https://drive.google.com/file/d/0B-yI0Z5suD9MWFYxenNQTzZmSTA/view?usp=sharing">drive google</a>)</li>
