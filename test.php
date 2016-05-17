@@ -51,8 +51,7 @@ window.addEventListener('message', onmessage, false);
                     <div class="card-content white-text">
                       <span class="card-title" id="testName"></span>
                       <p id="end-title">Тест состоит из <span id="count-questions"></span> случайно выбранных из списка вопросов. 
-                      Тест считается выполненным, если вы правильно ответили на <span id="count-points-OK"></span> вопросов. 
-                      Если вы не прошли тест, то в следующий раз пройти его сможете на следующий день.
+                      Тест считается выполненным, если вы правильно ответили на <span id="count-points-OK"></span> вопросов.
                       Время выполнения теста <span id="count-min"></span> минут.
                       </p>
                     </div>
