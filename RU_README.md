@@ -20,7 +20,7 @@ JS iframe виджет
 
 # Инструкция
 <ol>
-<li> Скачиваем каталог и загружаем к себе на хостинг (Скачать можно c <a href="https://yadi.sk/d/Xdx6ej8yrg7nJ">yandex disk</a> и <a href="https://drive.google.com/file/d/0B-yI0Z5suD9MWFYxenNQTzZmSTA/view?usp=sharing">drive google</a>)</li>
+<li> Скачиваем репозиторий и загружаем к себе на хостинг </li>
 <li> Создаем в каталоге папку с названием вашего теста</li>
 <li> Копируем в созданную папку файл "test.php"</li>
 <li> Создаём в этой же папке файл "questions.json"</li>
