@@ -1,4 +1,4 @@
-# testing-API-from-WebSchool
+# testing-system-from-WebSchool
 JS iframe виджет
 
 # <a href="http://webschool.pspu.ru/WebSchool/web/main/contact/demo">DEMO</a>
